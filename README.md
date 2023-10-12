@@ -1,4 +1,4 @@
-# skandergasmi-skandergasmi
+# skandergasmi
 
 ## Hi, I'm [Your Name]
 
