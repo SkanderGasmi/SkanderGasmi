@@ -1,11 +1,6 @@
 ## Hi, I'm Skander Gasmi
 
-I'm a 5th year computer science engineering student specialized in data science with a strong passion for neural networks and deep learning. Currently in my final graduation year, I've been actively exploring the fascinating world of artificial intelligence and its real-world applications.
-
-### What I'm Passionate About
-
-- 📊 Data Science: From data analysis to machine learning, I love working with data to extract meaningful insights.
-- 🧠 Neural Networks: I'm fascinated by the power of neural networks and their ability to learn complex patterns from data.
+I'm a 5th year computer science engineering student with a major in data science with a strong passion for neural networks. 
 
 ### What You'll Find Here
 
